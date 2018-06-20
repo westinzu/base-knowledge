@@ -1,11 +1,11 @@
 # HTML笔记
-整理记录最重要的 超文本语句注意点
-    ## HTML简史
+    整理记录最重要的 超文本语句注意点
+    ### HTML简史
         - [`标记语言`](http://ife.baidu.com/note/detail/id/410)
-    ## 选择器
+    ### 选择器
         - [`文本属性与字体技巧`](http://ife.baidu.com/note/detail/id/730)
         - [`背景边框列表链接和更复杂的选择器`](http://ife.baidu.com/note/detail/id/823)
-    ## 盒模型和浮动
+    ### 盒模型和浮动
         - [`盒模型和浮动`](http://ife.baidu.com/note/detail/id/959)
         - [`学习布局`](http://ife.baidu.com/note/detail/id/1265)
             - position
@@ -50,5 +50,3 @@
 
 ## JavaScript
 - [`js基本语法汇总`](http://ife.baidu.com/note/detail/id/1398)
-
-
