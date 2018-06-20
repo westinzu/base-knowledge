@@ -1,3 +1,4 @@
+
 ## HTML简史
 - [`标记语言`](http://ife.baidu.com/note/detail/id/410)
 ## 选择器
@@ -13,7 +14,7 @@
     - 固定定位
     - 堆叠顺序
     - Flexbox
-    - 居中详解 (http://ife.baidu.com/note/detail/id/1549)
+    - [居中详解](http://ife.baidu.com/note/detail/id/1549)
     - 传统居中方式
         - 水平居中     
             - 行内元素的水平居中     
