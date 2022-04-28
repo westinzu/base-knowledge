@@ -51,3 +51,5 @@
 - [`js基本语法汇总`](http://ife.baidu.com/note/detail/id/1398)
 - [`记忆API`](http://ife.baidu.com/note/detail/id/1651)
 - [`变量与数组重点`](http://ife.baidu.com/note/detail/id/1603)
+
+## update
